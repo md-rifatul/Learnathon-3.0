@@ -9,9 +9,8 @@ namespace Properties
 
     public class Person
     {
-       
-        public DateTime Birthdate { get;  private set; }
 
+        public DateTime Birthdate { get;  private set; }
         public int Age
         {
             get
