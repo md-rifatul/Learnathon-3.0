@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance Example", "Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition Example", "Composition Example\Composition Example.csproj", "{495CFFF2-5E7B-42FE-A855-12C683C24C72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor & Inheritance", "Constructor & Inheritance\Constructor & Inheritance.csproj", "{6DE3B528-8122-4818-8439-D472C0B0D28E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{495CFFF2-5E7B-42FE-A855-12C683C24C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495CFFF2-5E7B-42FE-A855-12C683C24C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495CFFF2-5E7B-42FE-A855-12C683C24C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
