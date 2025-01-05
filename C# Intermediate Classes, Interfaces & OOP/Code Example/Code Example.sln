@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonGeneric Example", "NonGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Example", "Generic Example\Generic Example.csproj", "{684582E4-980E-4558-8FA8-23D2107A41FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method Overriding\Method Overriding.csproj", "{70A8DB3A-8240-4B7F-9EAA-F9613B5A7A4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{684582E4-980E-4558-8FA8-23D2107A41FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684582E4-980E-4558-8FA8-23D2107A41FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684582E4-980E-4558-8FA8-23D2107A41FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A8DB3A-8240-4B7F-9EAA-F9613B5A7A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A8DB3A-8240-4B7F-9EAA-F9613B5A7A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A8DB3A-8240-4B7F-9EAA-F9613B5A7A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A8DB3A-8240-4B7F-9EAA-F9613B5A7A4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
