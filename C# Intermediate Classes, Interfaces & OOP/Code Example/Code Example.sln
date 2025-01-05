@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting", "Upcasting & Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downcasting", "Downcasting\Downcasting.csproj", "{0155276C-4291-48AC-AFA0-897C4DEE82D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing & Unboxing", "Boxing & Unboxing\Boxing & Unboxing.csproj", "{C7DE97E4-39ED-403E-A962-20688FFD929D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
