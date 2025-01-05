@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition Example", "Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor & Inheritance", "Constructor & Inheritance\Constructor & Inheritance.csproj", "{6DE3B528-8122-4818-8439-D472C0B0D28E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upcasting", "Upcasting & Downcasting\Upcasting.csproj", "{D3027C34-19C9-4288-AA9D-F4D549179108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downcasting", "Downcasting\Downcasting.csproj", "{0155276C-4291-48AC-AFA0-897C4DEE82D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE3B528-8122-4818-8439-D472C0B0D28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3027C34-19C9-4288-AA9D-F4D549179108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3027C34-19C9-4288-AA9D-F4D549179108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3027C34-19C9-4288-AA9D-F4D549179108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3027C34-19C9-4288-AA9D-F4D549179108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0155276C-4291-48AC-AFA0-897C4DEE82D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
