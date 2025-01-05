@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Example", "Abstract Example\Abstract Example.csproj", "{584B9BEA-FA5E-4583-AA20-C7A3250BA1B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sealed Keyword", "Sealed Keyword\Sealed Keyword.csproj", "{424ACEE3-73E8-4CDC-8860-7CBBA44C7994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{584B9BEA-FA5E-4583-AA20-C7A3250BA1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584B9BEA-FA5E-4583-AA20-C7A3250BA1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584B9BEA-FA5E-4583-AA20-C7A3250BA1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424ACEE3-73E8-4CDC-8860-7CBBA44C7994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424ACEE3-73E8-4CDC-8860-7CBBA44C7994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424ACEE3-73E8-4CDC-8860-7CBBA44C7994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424ACEE3-73E8-4CDC-8860-7CBBA44C7994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
