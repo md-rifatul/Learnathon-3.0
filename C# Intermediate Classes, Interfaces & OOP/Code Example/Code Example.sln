@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{FBE26688-0344-4F8C-A660-B507C60ACF73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance Example", "Inheritance Example\Inheritance Example.csproj", "{02D2F470-76DD-4BC6-B54D-255D3FFD8423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FBE26688-0344-4F8C-A660-B507C60ACF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE26688-0344-4F8C-A660-B507C60ACF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE26688-0344-4F8C-A660-B507C60ACF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D2F470-76DD-4BC6-B54D-255D3FFD8423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D2F470-76DD-4BC6-B54D-255D3FFD8423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D2F470-76DD-4BC6-B54D-255D3FFD8423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D2F470-76DD-4BC6-B54D-255D3FFD8423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
