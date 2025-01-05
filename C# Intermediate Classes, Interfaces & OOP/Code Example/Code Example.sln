@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downcasting", "Downcasting\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing & Unboxing", "Boxing & Unboxing\Boxing & Unboxing.csproj", "{C7DE97E4-39ED-403E-A962-20688FFD929D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonGeneric Example", "NonGeneric Example\NonGeneric Example.csproj", "{4D96F30E-CCD6-4E18-9C95-4B3548B8524D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DE97E4-39ED-403E-A962-20688FFD929D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D96F30E-CCD6-4E18-9C95-4B3548B8524D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D96F30E-CCD6-4E18-9C95-4B3548B8524D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D96F30E-CCD6-4E18-9C95-4B3548B8524D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D96F30E-CCD6-4E18-9C95-4B3548B8524D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
