@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Example", "Generic 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortWithGeneric", "BubbleSortWithGeneric\BubbleSortWithGeneric.csproj", "{A6CADFF1-E373-4E41-B0CA-2DE1D84A8F46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesExample", "DelegatesExample\DelegatesExample.csproj", "{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A6CADFF1-E373-4E41-B0CA-2DE1D84A8F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6CADFF1-E373-4E41-B0CA-2DE1D84A8F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6CADFF1-E373-4E41-B0CA-2DE1D84A8F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
