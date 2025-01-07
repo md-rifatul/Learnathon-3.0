@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Configuration;
+using System.Data;
+using System.Windows;
+using static System.Net.Mime.MediaTypeNames;
 
-namespace AssemblyInfo
+namespace Async
 {
-    internal class App
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App : Application
     {
     }
+
 }
