@@ -41,7 +41,7 @@
             //Console.WriteLine(cheapBook.Title+ ' '+cheapBook.Price);
 
 
-            //For only one object
+            //For only one object   (It's good for use)
             var book = books.SingleOrDefault(b => b.Title == "ADO.Net MVC");
             //Console.WriteLine(book == null);
             Console.WriteLine(book.Title);
@@ -51,7 +51,7 @@
             Console.WriteLine(book1.Title+' '+book1.Price);
 
             //For output last one
-            var book2 = books.Last(b => b.Title == "C# Advanced Topics");
+            var book2 = books.LastOrDefault(b => b.Title == "C# Advanced Topics");
             Console.WriteLine(book2.Title +' '+book2.Price);
 
 
