@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Example", "Generic Example\Generic Example.csproj", "{73250BDC-DA31-4065-B432-1894A1ABA5B9}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesExample", "DelegatesExample\DelegatesExample.csproj", "{0BF99D2F-AE11-42A0-AC1B-79FE28ADDEBF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{D255F16F-1BA4-45FC-91DC-590DEA468863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsExample", "EventsExample\EventsExample.csproj", "{BBAFF5B5-FEB2-4360-89D0-C4FF67287200}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D255F16F-1BA4-45FC-91DC-590DEA468863}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D255F16F-1BA4-45FC-91DC-590DEA468863}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D255F16F-1BA4-45FC-91DC-590DEA468863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAFF5B5-FEB2-4360-89D0-C4FF67287200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAFF5B5-FEB2-4360-89D0-C4FF67287200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAFF5B5-FEB2-4360-89D0-C4FF67287200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAFF5B5-FEB2-4360-89D0-C4FF67287200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
