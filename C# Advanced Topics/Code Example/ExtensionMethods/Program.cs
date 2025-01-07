@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string post = "This is supposed to be a very long .....";
-            var sortenedPost = post.Shorten(5);
+            string message = "This is supposed to be a very long .....";
+            var sortenedPost = message.Shorten(5);
 
             Console.WriteLine(sortenedPost);
         }
